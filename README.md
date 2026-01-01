@@ -14,6 +14,6 @@ This dashboard explores key sales and performance metrics for a supermarket data
 ## Tools & Files
 - **Tableau Public**: visual exploration and interaction
 - **Tableau workbook (.twbx)**: included in this repo
-- **Dataset**: included in `data/`
 
-![Dashboard Screenshot](images/screenshot1.png)
+<img width="1826" height="704" alt="image" src="https://github.com/user-attachments/assets/d01b7cf4-29b1-4ad7-9da7-91ea70c8f558" />
+
